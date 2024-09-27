@@ -34,7 +34,7 @@
     "svelte-check": "^1.0.0",
     "svelte-preprocess": "^4.0.0",
     "tslib": "^2.0.0",
-    "typescript": "^3.9.3"
+    "typescript": "^5.4.5"
   },
   "dependencies": {
     "ansi_up": "^5.0.0",
